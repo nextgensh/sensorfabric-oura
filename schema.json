@@ -1,0 +1,11 @@
+{
+    "activity": {
+        "summary_date": "datetime"
+    },
+    "sleep": {
+        "summary_date": "datetime"
+    },
+    "sleep_periods": {
+        "day": "datetime"
+    }
+}
